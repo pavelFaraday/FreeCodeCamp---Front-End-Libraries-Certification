@@ -1,8 +1,7 @@
-# FreeCodeCamp---Front-End-Libraries-Certification
-FreeCodeCamp - Front End Development Libraries Certification
+# FreeCodeCamp.org - Front End Development Libraries Certification
 
-### Random Quote Machine
-### Markdown Previewer
-### Drum Machine
-### Javascript Calculator
-### 25 + 5 Clock
+### 1. Random Quote Machine
+### 2. Markdown Previewer
+### 3. Drum Machine
+### 4. Javascript Calculator
+### 5. 25 + 5 Clock
